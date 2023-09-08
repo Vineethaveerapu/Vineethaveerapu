@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Vineethaveerapu
-- 👀 I’m interested in Devops, Cloud, Linux.
-- 🌱 I’m currently learning Devops
+- 👀 I’m interested in IT, Cloud, Linux.
+- 🌱 I’m currently learning JAVASCRIPT
