@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Vineethaveerapu
-- 👀 I’m interested in IT, Cloud, Linux.
-- 🌱 I’m currently learning JAVASCRIPT
+- 👀 I’m interested in Frontend Web Development
+- 🌱 I’m currently learning JavaScript, React, Frontend Web Development
